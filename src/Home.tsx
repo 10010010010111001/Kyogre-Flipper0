@@ -48,7 +48,7 @@ export default function Home() {
           <h1 className={styles.tipewriter}>Hack the Planet!</h1>
         </div>
         <img
-          src="/assets/home.png"
+          src="https://github.com/10010010010111001/Kyogre-Flipper0/blob/main/assets/home.png?raw=true"
           alt=""
         />
         {/* <Canvas>
