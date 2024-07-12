@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <>
       <header className={styles.header}>
-        <img src="https://static.tildacdn.com/tild3363-3430-4063-b531-323834643038/orange_text_transpar.svg" alt="" />
+        <img src="https://i.imgur.com/fiNNpAB.png" />
         <nav>
           <a href="#main">Início</a>
           <a href="#flipper">Flipper Zero</a>
