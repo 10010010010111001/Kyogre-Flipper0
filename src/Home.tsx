@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <>
       <header className={styles.header}>
-        <img src="https://i.imgur.com/fiNNpAB.png" />
+        <img src="https://static.tildacdn.com/tild3363-3430-4063-b531-323834643038/orange_text_transpar.svg" />
         <nav>
           <a href="#main">Início</a>
           <a href="#flipper">Flipper Zero</a>
@@ -48,7 +48,7 @@ export default function Home() {
           <h1 className={styles.tipewriter}>Hack the Planet!</h1>
         </div>
         <img
-          src="https://github.com/10010010010111001/Kyogre-Flipper0/blob/main/assets/home.png?raw=true"
+          src="https://i.imgur.com/fiNNpAB.png"
           alt=""
         />
         {/* <Canvas>
