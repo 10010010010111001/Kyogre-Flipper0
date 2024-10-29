@@ -70,7 +70,7 @@ export default function Home() {
         </p>
         <div>
           <a
-            href="https://api.whatsapp.com/send?phone=+5561986027994&text=Oi Kyogre!%20Gostaria%20de%20saber%20mais%20sobre%20o%20FlipperZero."
+            href="https://api.whatsapp.com/send?phone=+5561986027994&text=Oi Dev!%20Gostaria%20de%20saber%20mais%20sobre%20o%20FlipperZero."
             target="_blank"
           >
             <button>
