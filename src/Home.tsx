@@ -60,7 +60,7 @@ export default function Home() {
             </mesh>
           </Canvas> */}
         <h2>
-          Adquira seu Flipper Zero diretamente no Brasil com a @Kyogre.Corp!
+          Adquira seu Flipper Zero diretamente no Brasil com o dev @Douglas.Alura!
         </h2>
         <p>
           Entrega de 7 a 21 dias com frete grátis para todo país.
