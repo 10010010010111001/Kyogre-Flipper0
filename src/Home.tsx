@@ -48,7 +48,7 @@ export default function Home() {
           <h1 className={styles.tipewriter}>Hack the Planet!</h1>
         </div>
         <img
-          src="https://i.imgur.com/fiNNpAB.png"
+          src="https://imgur.com/a/QUOkhRD"
           alt=""
         />
         {/* <Canvas>
