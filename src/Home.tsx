@@ -60,7 +60,7 @@ export default function Home() {
             </mesh>
           </Canvas> */}
         <h2>
-          Adquira seu Flipper Zero diretamente no Brasil com o dev @Denis.Alura!
+          Adquira seu Flipper Zero diretamente no Brasil com o dev @Joao.Alura!
         </h2>
         <p>
           Entrega de 7 a 21 dias com frete grátis para todo país.
@@ -103,7 +103,7 @@ export default function Home() {
         <div className={styles.text_wrapper}>
           <h2>Sobre nós</h2>
           <p>
-            Como Pentester, professor na Alura.Online e revendedor do Flipper Zero desde 2021, @Denis.Alura conquistou diversos clientes em todo o Brasil importando o Golfinho mais amado por Hackers & Geeks, clientes nos quais você pode consultar na central/grupo de referências!
+            Como Pentester, professor na Alura.Online e revendedor do Flipper Zero desde 2021, @Joao.Alura conquistou diversos clientes em todo o Brasil importando o Golfinho mais amado por Hackers & Geeks, clientes nos quais você pode consultar na central/grupo de referências!
 
           </p>
           <p>Estas são algumas das vantagens que terá adquirindo seu Flipper Zero aqui:</p>
@@ -223,14 +223,14 @@ export default function Home() {
       <footer className={styles.footer}>
         <div>
           <h2>Patrick Santos Dev</h2>
-          <p>©2021 @Denis.Alura</p>
+          <p>©2021 @Joao.Alura</p>
           <p>Todos os direitos reservados.</p>
         </div>
         <div>
           <a href="https://api.whatsapp.com/send?phone=+556198602-7994&text=Oi!%20Gostaria%20de%20saber%20mais%20sobre%20o%20FlipperZero.">
             <WhatsappLogo weight="light" />
           </a>
-          <a href="https://www.instagram.com/Denis.alura">
+          <a href="https://www.instagram.com/joao.alura">
             <InstagramLogo weight="light" />
           </a>
         </div>
