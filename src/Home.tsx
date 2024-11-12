@@ -222,7 +222,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <div>
-          <h2>Patrick Santos Dev</h2>
+          <h2>João Caetano Dev</h2>
           <p>©2021 @Joao.Alura</p>
           <p>Todos os direitos reservados.</p>
         </div>
